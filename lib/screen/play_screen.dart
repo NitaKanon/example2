@@ -53,7 +53,7 @@ class _PlayScreenState extends State<PlayScreen> {
                     decoration: InputDecoration(
                       hintText: "ชื่อ-สกุล",
                       label: Text(
-                        "ชื่่อ-สกุล",
+                        "ชื่อ-สกุล",
                       ),
                     ),
                   ),
